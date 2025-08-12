@@ -6,6 +6,8 @@
 
 [![Streamlit](https://img.shields.io/badge/Streamlit-Online%20Demo-brightgreen?logo=streamlit)](#)
 [![Kaggle Dataset](https://img.shields.io/badge/Dataset-Kaggle-blue?logo=kaggle)](#)
+[![Medium](https://img.shields.io/badge/Medium-Read%20Article-02b875?logo=medium&logoColor=white)](https://medium.com/@anishkumar.shrestha07/building-a-plant-disease-detection-system-my-experience-managing-and-developing-with-yolov12-on-01ec31ba1ed6)
+
 
 📌 Overview
 This project implements state-of-the-art YOLOv12-L for multiclass object detection to identify plant species and classify leaf diseases from images.
