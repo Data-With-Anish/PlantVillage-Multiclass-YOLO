@@ -1,6 +1,12 @@
 # PlantVillage-Multiclass-YOLO
 🌱 Plant Disease Detection with YOLOv12-L (Multiclass Object Detection)
 
+
+**Real-Time Plant Disease Detection using YOLOv12-L**
+
+[![Streamlit](https://img.shields.io/badge/Streamlit-Online%20Demo-brightgreen?logo=streamlit)](#)
+[![Kaggle Dataset](https://img.shields.io/badge/Dataset-Kaggle-blue?logo=kaggle)](#)
+
 📌 Overview
 This project implements state-of-the-art YOLOv12-L for multiclass object detection to identify plant species and classify leaf diseases from images.
 The system aims to assist farmers, researchers, and agricultural AI systems by providing real-time plant disease recognition from a simple leaf photograph.
