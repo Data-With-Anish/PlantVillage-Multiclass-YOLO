@@ -27,7 +27,7 @@ Tomato	Tomato_Bacterial_spot, Tomato_Early_blight, Tomato_Late_blight, Tomato_Le
 
 ### Download the Dataset  
 The dataset is hosted on Kaggle and can be accessed here:  
-➡️ [Plant Village Augmented Dataset on Kaggle](https://www.kaggle.com/anishshrestha07/plant-village-augumented-yolov12-l-model)
+➡️ [Plant Village Augmented Dataset on Kaggle]()
 
 You can download it manually from Kaggle or use the Kaggle API as described in the **Model & Dataset Download Instructions** section.
 
@@ -108,32 +108,10 @@ data/ — Dataset configuration and augmentation scripts
 
 requirements.txt — Full environment dependencies
 
-📦 Installation
-Clone the repository:
 
-bash
-Copy
-Edit
-git clone https://github.com/your-username/plant-disease-detection-yolov12.git
-cd plant-disease-detection-yolov12
-Install dependencies:
-
-bash
-Copy
-Edit
-pip install -r requirements.txt
-Run the demo (Colab):
-
-bash
-Copy
-Edit
-streamlit run plant_disease_detection_colab.ipynb
 📜 Requirements
 requirements.txt
 
-ini
-Copy
-Edit
 absl-py==2.2.2
 altair==5.5.0
 blinker==1.9.0
@@ -151,9 +129,6 @@ tqdm==4.67.1
 ultralytics==8.3.170
 Additional CLI installs for demo deployment:
 
-bash
-Copy
-Edit
 pip install -q streamlit ultralytics
 npm install -g localtunnel
 wget https://github.com/cloudflare/cloudflared/releases/latest/download/cloudflared-linux-amd64 -O cloudflared
